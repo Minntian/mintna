@@ -1,1 +1,1 @@
-FROM fusionauth/fusionauth-app
+FROM fusionauth/fusionauth-app:latest
