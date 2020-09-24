@@ -1,1 +1,1 @@
-# kintohub-hasura-dockerfile
+# kintohub-fusionauth-dockerfile
