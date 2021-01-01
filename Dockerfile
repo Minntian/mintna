@@ -1,1 +1,1 @@
-FROM fusionauth/fusionauth-app:latest
+FROM malaohu/teambitionshare
